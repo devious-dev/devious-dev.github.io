@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://devious-dev.github.io/atom.xml" rel="self"/>
+  <link href="http://devious-dev.github.io/"/>
+  <updated>2014-02-26T13:05:56-06:00</updated>
+  <id>http://devious-dev.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://devious-dev.github.io/blog/2014/02/26/welcome/"/>
+    <updated>2014-02-26T13:05:45-06:00</updated>
+    <id>http://devious-dev.github.io/blog/2014/02/26/welcome</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
