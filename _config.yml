@@ -4,10 +4,10 @@
 
 url: http://devious-dev.github.io
 title: Devious Development 
-subtitle: A development blog for the random-minded.
-author: Jorge A. Perez
+subtitle: 
+author: Ban Finch
 simple_search: http://google.com/search
-description:
+description: A development blog for the random-minded.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: 
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: 
 twitter_tweet_button: true
 
 # Google +1
@@ -98,3 +98,17 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Social sidebar
+social:
+  title: # Defaults to "Follow me!" if not present
+  adn: # App.net
+  dribbble:
+  facebook: www.facebook.com/Rheriel
+  github: www.facebook.com/Rheriel
+  googleplus: google.com/+AbrahamPérezBan
+  linkedin: mx.linkedin.com/pub/jorge-pérez/44/484/a91/
+  pinterest:
+  stackoverflow:
+  twitter: www.twitter.com/Rheriel
+  youtube: www.twitter.com/Rheriel
