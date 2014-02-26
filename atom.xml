@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Devious Development]]></title>
   <link href="http://devious-dev.github.io/atom.xml" rel="self"/>
   <link href="http://devious-dev.github.io/"/>
-  <updated>2014-02-26T13:05:56-06:00</updated>
+  <updated>2014-02-26T13:53:18-06:00</updated>
   <id>http://devious-dev.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jorge A. Perez]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
