@@ -2,11 +2,13 @@
 layout: default
 ---
 
-{% if page.title and page.show_title != false %}
-<h1 class="title indent">
-  {% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}
-</h1>
-<hr class="divider">
-{% endif %}
+<article class="page">
+    <div class="entry-content">{{ content }}</div>
+</article>
 
-{{ content }}
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+</section>
+{% endif %}
