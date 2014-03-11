@@ -98,17 +98,3 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
-
-# Social sidebar
-social:
-  title: # Defaults to "Follow me!" if not present
-  adn: # App.net
-  dribbble:
-  facebook: Rheriel
-  github: Rheriel
-  googleplus: +AbrahamPérezBan
-  linkedin:
-  pinterest:
-  stackoverflow:
-  twitter: Rheriel
-  youtube: Rheriel
